@@ -2,5 +2,5 @@
 
     Hi My friends 
     I'm Mohammad Sadiq Rizai.  
-    a hub of software engineering.  
-    just started to write codes with Python.
+    Interested in software engineering.  
+    just started writing codes with Python.
